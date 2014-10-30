@@ -1,3 +1,3 @@
 <?php
-print "practice ver2";
+print "practice ver2ああああああああああああああああああああああ";
 ?>
