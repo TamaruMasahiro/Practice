@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello Practice";
+echo "Hello Practice ver fix-B";
 
 ?>
